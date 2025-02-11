@@ -10,7 +10,7 @@ The goal of this project is to apply machine learning techniques to predict whic
 - Model training and evaluation
 
 ## Dataset
-The dataset includes information on passengers such as age, gender, class, and fare. It is typically sourced from Kaggle's Titanic dataset.
+The dataset includes information on passengers such as age, gender, class, and fare. It is sourced from Kaggle.
 
 ## Dependencies
 To run this notebook, you need the following Python libraries:
